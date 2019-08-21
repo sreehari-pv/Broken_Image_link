@@ -19,10 +19,12 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.Test;
 
 public class Brocken_Img_and_Links {
 
-	public static void main(String[] args) throws IOException, InterruptedException {
+	@Test
+	public void test_broken_links() throws IOException, InterruptedException {
 		System.setProperty("webdriver.gecko.driver", "./Drivers\\geckodriver.exe");
 		WebDriver  driver = new FirefoxDriver();
 		

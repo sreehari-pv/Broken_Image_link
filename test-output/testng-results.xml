@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="87392" started-at="2019-08-21T10:18:38Z" finished-at="2019-08-21T10:20:05Z">
+  <suite name="Default suite" duration-ms="139286" started-at="2019-08-26T10:48:35Z" finished-at="2019-08-26T10:50:55Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="87392" started-at="2019-08-21T10:18:38Z" finished-at="2019-08-21T10:20:05Z">
+    <test name="Default test" duration-ms="139286" started-at="2019-08-26T10:48:35Z" finished-at="2019-08-26T10:50:55Z">
       <class name="demo_allegion_us.Brocken_Img_and_Links">
-        <test-method status="PASS" signature="test_broken_links()[pri:0, instance:demo_allegion_us.Brocken_Img_and_Links@47fd17e3]" name="test_broken_links" duration-ms="87372" started-at="2019-08-21T10:18:38Z" finished-at="2019-08-21T10:20:05Z">
+        <test-method status="PASS" signature="test_broken_links()[pri:0, instance:demo_allegion_us.Brocken_Img_and_Links@5c7fa833]" name="test_broken_links" duration-ms="139256" started-at="2019-08-26T10:48:36Z" finished-at="2019-08-26T10:50:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_broken_links -->
       </class> <!-- demo_allegion_us.Brocken_Img_and_Links -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
